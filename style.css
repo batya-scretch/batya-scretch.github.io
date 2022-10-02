@@ -1,0 +1,34 @@
+.hat	{
+	background: black;
+	display: flex;
+	justify-content: space-between;
+	padding-left: 350px;
+	padding-right: 350px;
+	padding-top: 15px;
+	padding-bottom: 15px;	
+}
+a	{
+	color: white;
+	font-size: 22px;
+	text-decoration: none;
+}
+body{
+	margin: 0;
+}
+.promo{
+	height: 700px;
+	background: url(promo.png);
+	background-size: 100%;
+	background-position: 50% 50%;
+}
+h2{
+	font-size:100px ;
+	text-align: center;
+}
+p{
+	font-size: 40px;
+    text-align: justify;
+}
+.info{
+	padding: 0 350px;
+}												
